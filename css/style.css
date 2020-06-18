@@ -22,7 +22,7 @@
 .btn_1,
 .btn_2:hover,
 .form-contact .form-group .btn_1 i {
-    background-image: linear-gradient(to left, #00b4ff 0%, #57ddff 51%, #00b4ff 100%);
+    background-image: linear-gradient(to left, #12E856 0%, #12E856 51%, #3DA62D 100%);
 }
 
 
@@ -32,7 +32,7 @@
 .banner_part .banner_text .banner_btn_2:hover,
 .cta_part .banner_btn_1:hover,
 .cta_part .banner_btn_2:hover {
-    background-image: linear-gradient(to left, #57ddff 0%, #57ddff 51%, #57ddff 100%);
+    background-image: linear-gradient(to left, #52E875 0%, #5EBF64 51%, #5EBF64 100%);
 }
 
 
@@ -275,6 +275,11 @@ h3 {
 h5 {
     font-size: 18px;
     line-height: 22px;
+}
+
+.Noticia {
+    font-family: 'Caveat Brush', cursive;
+    opacity: 0.8;
 }
 
 
@@ -2642,7 +2647,7 @@ ul {
 /* line 29, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_menu.scss */
 
 .main_menu .main-menu-item ul li .nav-link:hover {
-    color: #000;
+    color: #43D978;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -3118,7 +3123,7 @@ ul {
 /* line 76, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_banner.scss */
 
 .banner_part .banner_text .banner_btn_1 {
-    color: #0ab6ff;
+    color: #3e3c55;
     border: 0px solid transparent;
     margin-right: 28px;
 }
@@ -3127,7 +3132,7 @@ ul {
 /* line 80, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_banner.scss */
 
 .banner_part .banner_text .banner_btn_1:hover {
-    background-color: #0ab6ff !important;
+    background-color: !important;
     color: #fff;
 }
 
@@ -4134,7 +4139,7 @@ ul {
 /* line 40, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_cta_part.scss */
 
 .cta_part .banner_btn_1:hover {
-    background-color: #0ab6ff !important;
+    background-color: #2E2D40 !important;
     color: #fff;
 }
 
@@ -7032,12 +7037,12 @@ h6 {
     top: 20px;
     width: 60px;
     height: 39px;
-    background-color: #0ab6ff;
+    background-color: #3e3c55;
     text-align: center;
     color: #fff;
     border-radius: 50px;
     line-height: 10px;
-    border: 2px solid #0ab6ff;
+    border: 2px solid #6cefad;
 }
 
 
@@ -7147,7 +7152,7 @@ h6 {
 /* line 204, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_footer.scss */
 
 .footer_part .info {
-    color: red !important;
+    color: #5fcf6a !important;
 }
 
 @media (max-width: 991px) {
